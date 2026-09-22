@@ -44,7 +44,7 @@ export default function TrackParcel() {
     try {
 
       const res = await fetch(
-        `https://courier-management-system-fiss.onrender.comparcels/track/${encodeURIComponent(
+        `https://courier-management-system-fiss.onrender.com/parcels/track/${encodeURIComponent(
           trackingCode
         )}`
       );
