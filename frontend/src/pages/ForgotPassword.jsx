@@ -35,7 +35,7 @@ export default function ForgotPassword() {
     try {
 
       const res = await fetch(
-        "http://127.0.0.1:8000/forgot-password",
+        "https://courier-management-system-fiss.onrender.com/forgot-password",
         {
           method: "POST",
 

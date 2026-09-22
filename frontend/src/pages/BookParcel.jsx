@@ -55,7 +55,7 @@ export default function BookParcel() {
 
     try {
       const res = await fetch(
-        "http://127.0.0.1:8000/parcels/book",
+        "https://courier-management-system-fiss.onrender.com/parcels/book",
         {
           method: "POST",
 

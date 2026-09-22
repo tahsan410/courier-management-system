@@ -3,7 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import toast from "react-hot-toast";
 import { AuthContext } from "../context/AuthContext";
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://courier-management-system-fiss.onrender.com";
 
 export default function MyParcels() {
   const { user, loading: authLoading } = useContext(AuthContext);

@@ -92,7 +92,7 @@ export default function AdminDashboard() {
 
 
       const res = await fetch(
-        `http://127.0.0.1:8000/admin/parcels?${query.toString()}`,
+        `https://courier-management-system-fiss.onrender.com/admin/parcels?${query.toString()}`,
         {
           method: "GET",
 
@@ -276,7 +276,7 @@ export default function AdminDashboard() {
     try {
 
       const res = await fetch(
-        `http://127.0.0.1:8000/admin/parcels/${id}/status`,
+        `https://courier-management-system-fiss.onrender.com/admin/parcels/${id}/status`,
         {
           method: "PUT",
 
@@ -406,7 +406,7 @@ export default function AdminDashboard() {
     try {
 
       const res = await fetch(
-        `http://127.0.0.1:8000/admin/parcels/${id}`,
+        `https://courier-management-system-fiss.onrender.com/admin/parcels/${id}`,
         {
           method: "DELETE",
 
