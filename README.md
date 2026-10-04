@@ -215,8 +215,8 @@ Example: a 2 KG parcel costs `60 + 2 × 20 = ৳100`.
 
 **Tahsan Farhad**
 
-- GitHub: [@your-username](https://github.com/tahsan410)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/tahsan-farhad-819398382)
+- GitHub: [@tahsan410](https://github.com/tahsan410)
+- LinkedIn: [Tahsan Farhad Ovi](https://www.linkedin.com/in/tahsan-farhad-819398382)
 
 ---
 
