@@ -203,18 +203,6 @@ Example: a 2 KG parcel costs `60 + 2 × 20 = ৳100`.
 
 > Deploy the **backend first**, then the frontend.
 
-## 🖼️ Screenshots
-
-<!-- Add your screenshots to a /screenshots folder and update the paths below -->
-
-| Home | Track Parcel |
-|---|---|
-| ![Home](screenshots/home.png) | ![Track](screenshots/track.png) |
-
-| My Parcels | Admin Dashboard |
-|---|---|
-| ![My Parcels](screenshots/my-parcels.png) | ![Admin](screenshots/admin.png) |
-
 ## 🗺️ Roadmap
 
 - [ ] Parcel invoice / label printing
